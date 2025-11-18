@@ -3,7 +3,7 @@ name: Publicar paquete en GitHub Packages
 on:
   push:
     branches:
-      - master
+      - academi
 
 jobs:
   publicar-paquete:
