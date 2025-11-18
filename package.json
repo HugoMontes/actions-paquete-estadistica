@@ -1,6 +1,6 @@
 {
   "name": "@hugomontes/actions-paquete-estadistica",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Funciones estadisticas y generacion de graficas con nodejs",
   "main": "index.js",
   "scripts": {
